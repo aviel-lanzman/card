@@ -1,0 +1,14 @@
+.demo-container {
+  background-image: url("https://images.pexels.com/photos/4630620/pexels-photo-4630620.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+}
+
+.demo-container {
+  border: 40px solid transparent;
+  padding: 35px;
+  border-image: url("https://images.pexels.com/photos/5913139/pexels-photo-5913139.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500")
+    30 round;
+}
+
+input {
+  text-align: center;
+}
